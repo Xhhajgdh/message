@@ -1,6 +1,6 @@
 public class MessageService {
 
-    public void initializeService() {
+    private void initializeService() {
         System.out.println("Initializing messaging service...");
         // 在这里初始化短信服务，设置API密钥等
     }

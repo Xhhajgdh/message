@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.List;
 
-public class MessageSender {
+public class MessageSender1.0 {
 
     public static void main(String[] args) {
         MessageService service = new MessageService();

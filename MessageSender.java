@@ -11,7 +11,7 @@ public class MessageSender {
             "+1234567890",
             "+1987654321",
             "+1123456789"
-        );,
+        );
 
         MessageContent messageContent = new MessageContent("Hello, this is a test message!");
 

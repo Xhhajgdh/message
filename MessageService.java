@@ -2,7 +2,7 @@ public class MessageService {
 
     public void initializeService() {
         System.out.println("Initializing messaging service...");
-        // 在这里初始化短信服务，例如设置API密钥等
+        // 在这里初始化短信服务，设置API密钥等
     }
 
     public void sendMessage(String phoneNumber, String message) {

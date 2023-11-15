@@ -1,6 +1,6 @@
-public class MessageContent2.0 {
+public class MessageContent {
 
-    public String message;
+    private String message;
 
     public MessageContent(String message) {
         this.message = message;

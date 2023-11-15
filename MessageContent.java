@@ -1,6 +1,6 @@
 public class MessageContent {
 
-    private String message;
+    public String message;
 
     public MessageContent(String message) {
         this.message = message;

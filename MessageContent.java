@@ -1,4 +1,4 @@
-public class MessageContent {
+public class MessageContent2.0 {
 
     public String message;
 

@@ -1,9 +1,9 @@
 import java.util.Arrays;
 import java.util.List;
 
-public class MessageSender1.0 {
+public class MessageSender {
 
-    public static void main(String[] args) {
+    private static void main(String[] args) {
         MessageService service = new MessageService();
         service.initializeService();
 
